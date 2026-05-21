@@ -517,19 +517,6 @@ Planned upgrades:
 
 ---
 
-# 👨‍💻 Author
-
-Rishik Manche
-
-AI Engineer | Machine Learning | Generative AI | Full Stack
-
-LinkedIn: your-link
-
-Portfolio: your-link
-
-Email: your-email
-
----
 
 # 🤝 Contributing
 
